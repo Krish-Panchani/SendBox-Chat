@@ -5,9 +5,9 @@ Web based Realtime Chat application with Tailwind CSS, PHP, Ajax &amp; MySQL Dat
 
 ## Project Open for contribution
 Contact me at 
-Discord: @thunderbolt1346
-Gmail: krishpanchani1346@gmail.com
-Insta: Krishpanchani
+* Discord: @thunderbolt1346
+* Gmail: krishpanchani1346@gmail.com
+* Insta: Krishpanchani
 
 # Features
 
