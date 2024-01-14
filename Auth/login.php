@@ -1,10 +1,18 @@
+<?php
+
+$a = 'Tell your friends about this chat websites. We are providing Private, Safe & Faster Chat';
+$b = 'Are you really Enjoying this chat website? Let Give is Feedback at link.';
+$c = 'We are currently on beta stage, where we try some new feature and Fix bug issues. If you found any bug then report us at @thunderdevelops.in';
+$d = 'Optimized WebChat platform The SendBox BETA v.0.1 is here. Private, Secure & Faster Chat plateform.';
+$array = array($a, $b, $c, $d);
+?>
 
 <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
   <div class="mx-auto max-w-lg text-center">
     <h1 class="text-2xl font-bold sm:text-3xl">Welcome Back!</h1>
 
     <p class="mt-4 text-gray-500">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad maxime at consequuntur illum, quasi assumenda alias nihil ullam! Doloremque, nam.
+      <?php echo $array[rand(0, count($array) - 1)]; ?>
     </p>
   </div>
 
