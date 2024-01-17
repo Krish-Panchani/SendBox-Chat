@@ -6,7 +6,7 @@ if (!isset($_SESSION['unique_id'])) {
 }
 ?>
 
-//HTML header 
+// HTML header 
 <?php include_once "header.php"; ?>
 <?php include_once "php/check_friends.php"; ?>
 
