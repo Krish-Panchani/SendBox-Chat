@@ -40,3 +40,4 @@ Contact me at
 * Block / Ban User
 * End to End Encrypted
 * Admin Dashboard
+* Chat with AI
