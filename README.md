@@ -15,9 +15,9 @@ Main use case of this App is to Provide Remote Communication plateform by which 
 * Add Comments in Code
 
 Contact me at 
-* Discord: @thunderbolt1346
-* Gmail: krishpanchani1346@gmail.com
-* Insta: Krishpanchani
+* Discord: @mubashirodho
+* Gmail: mubashirodho@gmail.com
+* Insta: odho56
 
 # Features
 
